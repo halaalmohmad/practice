@@ -1,4 +1,4 @@
-console.log("Welcome Hala edit in master branch")
+console.log("Welcome Hala edit in main branch")
 function add(a,b){
     return a+b
 }
