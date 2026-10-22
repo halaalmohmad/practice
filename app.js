@@ -1,4 +1,4 @@
-console.log("HELLO FROM JS AND GIT")
+console.log("Welcome Hala edit in master branch")
 function add(a,b){
     return a+b
 }
